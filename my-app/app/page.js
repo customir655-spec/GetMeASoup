@@ -86,7 +86,7 @@ export default function Home() {
             {/* The YouTube Embed */}
             <iframe 
               className="absolute inset-0 w-full h-full"
-              src="https://www.youtube.com/embed/B1q92wv44Xw" 
+              src="https://www.youtube.com/embed/qjPGf1TVaaI" 
               title="Crowdfunding for Creators"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
