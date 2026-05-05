@@ -70,7 +70,7 @@ const baseName = user.email.split('@')[0].replace(/[^a-zA-Z0-9]/g, '_');
       console.log("New user created in DB");
 
     } else {
-
+user.name = existingUser2.name;
       console.log("Existing user signed in");
 
     }
