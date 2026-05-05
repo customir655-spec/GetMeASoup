@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "GetMeACoffee",
+  title: "GetMeASoup",
   description: "A clone of GetMeAChai",
 };
 
