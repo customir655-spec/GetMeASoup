@@ -18,7 +18,7 @@ export default function Home() {
             <h1 className="text-4xl md:text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500 tracking-tight">
               Buy Me A Soup
             </h1>
-            <img src="/coffee.gif" alt="Soup" className="w-12 h-12 md:w-16 md:h-16" />
+          
           </div>
 
           <p className="text-slate-300 text-lg md:text-xl max-w-lg leading-relaxed">
