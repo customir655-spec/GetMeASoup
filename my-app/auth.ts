@@ -43,7 +43,7 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
     // 2. Check if user exists (searching by email is safer than name)
 
  // Add 'as any' to the object inside findOne
-const existingUser2 = await User2.findOne({ email: user.email, name: user.name } as any);
+const existingUser2 = await User2.findOne({ email: user.email} as any);
 
 const baseName = user.email.split('@')[0].replace(/[^a-zA-Z0-9]/g, '_');
 
