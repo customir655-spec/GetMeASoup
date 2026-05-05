@@ -83,7 +83,7 @@ function deliverValue(passion) {
           <h2 className="text-4xl font-bold mb-8 text-white">Start Your Kitchen Today</h2>
           <div className="flex flex-col sm:flex-row justify-center gap-6">
             <button className="px-10 py-4 bg-blue-600 hover:bg-blue-500 hover:scale-105 text-white font-bold rounded-2xl transition-all shadow-xl shadow-blue-900/20">
-              <Link href="\dashboard"> Create My Page <Link>
+              <Link href="\dashboard"> Create My Page </Link>
             </button>
             <button className="px-10 py-4 bg-white/5 hover:bg-white/10 text-white font-bold rounded-2xl border border-white/10 transition-all">
               <Link href="\creators">View Creators</Link>
